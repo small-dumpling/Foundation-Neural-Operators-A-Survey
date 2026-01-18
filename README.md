@@ -5,11 +5,11 @@ A curated paper list for **"Foundation Neural Operators: A Survey on Pretraining
 
 This repository organizes recent advances in **foundation-style neural operators** into three parts(Some articles overlap across domains):
 
-1) **Pretraining Paradigms** (how foundation NOs are pretrained)  
-2) **Data Ecosystem & Dataset Generation** (how large-scale PDE corpora and benchmarks are built)  
-3) **Optimization & Efficient Adaptation/Inference** (how to train, adapt, and deploy efficiently)
+1) **Pretraining Paradigms**
+2) **Data Ecosystem & Dataset Generation**
+3) **Optimization & Efficient Adaptation/Inference**
 
-> **Last updated:** 2026-01-18 (Europe/Amsterdam)
+> **Last updated:** 2026-01-18
 
 ---
 
