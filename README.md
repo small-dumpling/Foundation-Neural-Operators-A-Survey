@@ -1,7 +1,7 @@
-# Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystem, and Efficient Adaptation
+# Foundation Neural Operators: A Survey on Pretraining Methods, the Data Ecosystem, and Efficient Adaptation
 
 
-A curated paper list for **"Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystem, and Efficient Adaptation"**.
+A curated paper list for **"Foundation Neural Operators: A Survey on Pretraining Methods, the Data Ecosystem, and Efficient Adaptation"**.
 
 This repository organizes recent advances in **foundation-style neural operators** into three parts(Some articles overlap across domains):
 
