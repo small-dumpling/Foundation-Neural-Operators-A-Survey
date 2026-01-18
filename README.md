@@ -1,7 +1,7 @@
-# Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystems, and Efficient Adaptation
+# Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystem, and Efficient Adaptation
 
 
-A curated paper list for **"Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystems, and Efficient Adaptation"**.
+A curated paper list for **"Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystem, and Efficient Adaptation"**.
 
 This repository organizes recent advances in **foundation-style neural operators** into three parts(Some articles overlap across domains):
 
@@ -56,7 +56,7 @@ This repository organizes recent advances in **foundation-style neural operators
 | 2023 | [Scaling & Transfer Behavior](https://proceedings.neurips.cc/paper_files/paper/2023/file/e15790966a4a9d85d688635c88ee6d8a-Paper-Conference.pdf) | Lawrence Berkeley National Lab | Scaling + transfer behavior of pretraining→downstream | history trajectories → future trajectories |
 | 2024 | [CoDA-NO](https://openreview.net/pdf?id=wSpIdUXZYX) | NVIDIA | Codomain attention pretraining for multiphysics neural operators | history trajectories → future trajectories |
 | 2024 | [Data-Efficient Operator Learning (UP + ICL)](https://proceedings.neurips.cc/paper_files/paper/2024/file/0bac492172db3311c7e116098cfcf521-Paper-Conference.pdf) | Simon Fraser University | Unsupervised pretraining + downstream tuning | history trajectories → future trajectories |
-| 2026 | [NCWNO](https://www.sciencedirect.com/science/article/pii/S0010465525003844) | UIUC | MoE + pretraining + fine-tuning to mitigate forgetting | - |
+| 2026 | [NCWNO](https://www.sciencedirect.com/science/article/pii/S0010465525003844) | UIUC | MoE + pretraining + fine-tuning to mitigate forgetting | Parametric PDE inputs (fields + parameters) → solution field prediction |
 | 2025 | [MoE-POT](https://arxiv.org/abs/2510.25803) | USTC | MoE-based pretraining framework (DPOT-like I/O) | same as DPOT |
 | 2025 | [LLMs as Multi-Modal DE Solvers](https://arxiv.org/pdf/2308.05061) | University of California | Multi-modal in-context operator learning (ICON + text prompting) | ICON-style + text prompts |
 | 2025 | [ENMA](https://openreview.net/pdf?id=3CYXSMFv55) | NeurIPS 2025 | Token autoregressive diffusion, improving VICON | same as VICON |
