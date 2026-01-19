@@ -9,7 +9,7 @@ This repository organizes recent advances in **foundation-style neural operators
 2) **Data Ecosystem & Dataset Generation**
 3) **Optimization & Efficient Adaptation/Inference**
 
-> **Last updated:** 2026-01-18
+> **Last updated:** 2026-01-19
 
 ---
 
