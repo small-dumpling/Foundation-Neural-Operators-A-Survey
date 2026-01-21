@@ -108,3 +108,15 @@ This repository organizes recent advances in **foundation-style neural operators
 | 2024 | [CoDA-NO](https://openreview.net/pdf?id=wSpIdUXZYX) | NVIDIA | Codomain attention pretraining for multiphysics NOs |
 | 2024 | [Data-Efficient Operator Learning](https://proceedings.neurips.cc/paper_files/paper/2024/file/0bac492172db3311c7e116098cfcf521-Paper-Conference.pdf) | - | Unsupervised pretraining + ICL for data efficiency |
 | 2026 | [NCWNO](https://www.sciencedirect.com/science/article/pii/S0010465525003844) | UIUC | MoE + pretraining + finetuning to mitigate forgetting |
+
+## ⭐ Citation
+If you find this work useful, welcome to cite us.
+```
+@misc{ren2026foundationNOsurvey_github,
+  author       = {Ren, Xingyu and Wang, Pengkai and Liu, Pengwei and Yue, Xihang and Dong, Huanshuo and Huang, Zhenxin and Hao, Zhongkai and Hu, Ziqian and Huang, Zhen and Wang, Yian and Ni, Dong and Wang, Hong},
+  title        = {Foundation Neural Operators: A Survey on Pretraining Methods, the Data Ecosystem, and Efficient Adaptation},
+  year         = {2026},
+  howpublished = {\url{https://github.com/small-dumpling/Foundation-Neural-Operators-A-Survey}},
+  note         = {GitHub repository, accessed 2026-01-20}
+}
+```
