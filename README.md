@@ -85,6 +85,10 @@ This repository organizes recent advances in **foundation-style neural operators
 | 2025 | [Multiphysics Bench](https://arxiv.org/pdf/2505.17575) | HKU / Shanghai AI Lab | Multiphysics datasets & benchmarking |
 | 2023 | [BubbleML](https://arxiv.org/pdf/2307.14623) | UC Irvine | Bubble multiphysics dataset & benchmarks |
 | 2025 | [Open-CK](https://openreview.net/pdf?id=A23C57icJt) | USTC | Large multi-physics field-coupling benchmark in combustion kinetics |
+| 2024 | [DrivAerNet++](https://arxiv.org/abs/2406.09624) | MIT | Largest aero-design corpus: 8,000 diverse car geometries with multimodal high-fidelity CFD (flow fields, meshes, coefficients) |
+| 2024 | [AhmedML](https://arxiv.org/abs/2407.20801) | AWS | High-fidelity bluff body benchmark: 500 geometric variants using hybrid RANS-LES to capture complex flow separation & vortices |
+| 2024 | [WindsorML](https://arxiv.org/abs/2407.19320) | AWS | GPU-native WMLES benchmark: 355 square-back variants with >280M cells for ultra-high-precision transient flow analysis |
+| 2024 | [DrivAerML](https://arxiv.org/abs/2408.11969) | AWS | Industrial high-fidelity benchmark: 500 parametric car variants using scale-resolving hybrid RANS-LES simulations (DES) |
 
 ---
 
